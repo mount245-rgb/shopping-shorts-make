@@ -1,0 +1,9 @@
+click>=8.1
+anthropic>=0.30
+python-dotenv>=1.0
+requests>=2.31
+playwright>=1.44
+tqdm>=4.66
+customtkinter>=5.2
+Pillow>=10.0
+tkinterdnd2

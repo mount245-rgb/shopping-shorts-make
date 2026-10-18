@@ -1,0 +1,26 @@
+# 환경 변수 (API 키 포함 — 절대 커밋 금지)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# 가상환경
+venv/
+.venv/
+
+# 출력 결과물 (영상, 오디오)
+shorts_output/
+*.mp4
+*.mp3
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
